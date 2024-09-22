@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/___kavishka___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___kavishka___" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kavishka-ravishan-188351262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavishka ravishan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kavishka-ravishan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavishka ravishan" height="30" width="40" /></a>
 <a href="https://fb.com/kavishka ravishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavishka ravishan" height="30" width="40" /></a>
 <a href="https://instagram.com/kavishka_kumarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavishka_kumarasinghe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kavishka ravishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavishka ravishan" height="30" width="40" /></a>
