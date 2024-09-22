@@ -2,13 +2,15 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+- :school: I am a `Computer Engineering` undergraduate at [Faculty of Engineering, University of Ruhuna](https://www.eng.ruh.ac.lk/)
+  
 - 🌱 I’m currently learning **Flutter, MERN and JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KavishkaRavishan](https://github.com/KavishkaRavishan)
 
-- 📫 How to reach me **kkravishan2@gmail.com**
+- 📫 How to reach me : **kkravishan2@gmail.com**
 
-- ⚡ Fun fact **Coding is a passion and not profession**
+- ⚡ Fun fact : **Coding is a passion and not profession**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
