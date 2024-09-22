@@ -95,15 +95,6 @@
 
 ### 🛠️ IDEs and Software Tools
 <p align="center">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="visual studio" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -112,6 +103,15 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="eclipse" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="canva" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
