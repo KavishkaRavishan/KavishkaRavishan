@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavishka Ravishan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🌱 I’m currently learning **Flutter, MERN and JAVA**
 
