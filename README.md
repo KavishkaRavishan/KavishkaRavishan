@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact : **Coding is a passion and not profession**
 
-## Connect with me:
+## 🔗 Connect with me:
 <p align="center">
   <a href="https://twitter.com/___kavishka___" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___kavishka___" height="40" width="40" />
