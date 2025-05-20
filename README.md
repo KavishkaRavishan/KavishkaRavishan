@@ -9,7 +9,7 @@
 
 - 📫 How to reach me : **kkravishan2@gmail.com**
   
-- 🌱 I’m currently learning **Flutter, MERN and JAVA**
+- 🌱 I’m currently learning **.NET, MERN and JAVA**
 
 - ⚡ Fun fact : **Coding is a passion and not profession**
 
